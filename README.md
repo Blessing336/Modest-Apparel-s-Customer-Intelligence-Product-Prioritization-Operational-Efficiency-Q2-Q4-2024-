@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Asset%204.png" alt="Modest_Apparel Logo" width="800" height="800" />
+  <img src="resources/Asset%204.png" alt="Modest_Apparel Logo" width="200" height="200" />
 </p>
 
 <!-- Title -->
@@ -14,17 +14,13 @@
 
 Like many retailers globally, Modest Apparel experienced sales boom in its first 4 years, built a loyal customer base of repeat buyers, including notable fashion influencers and boutique owners who recognized the quality and authenticity of their African fashion offerings. However, new challenges began to arise and the business stands at a critical crossroads as **sustainable growth requires operational excellence and customer intelligence**.
 
-Reporting to the CEO, this analysis was conducted to transform Modest Apparel into a retail operation capable of anticipating customer needs, optimizing inventory, rewarding loyalty, and scaling efficiently. This review provides insights into the business operational efficiency, diving into these **key metrics**:
+Reporting to the CEO, this analysis was conducted to transform Modest Apparel into a retail operation capable of anticipating customer needs, optimizing delivery times, rewarding loyalty, and scaling efficiently. This review provides insights into the business operational efficiency, diving into these **key metrics**:
 
 <br/>
-
-* **Inventory Turnover**: Identify fast-moving vs. slow-moving products to optimize purchasing decisions and prevent overstock situations.
   
-* **Order Cycle Time**: Measure to improve fulfillment speed from order placement to customer delivery.
+* **Order Cycle Time**: Measure to improve fulfillment speed from order placement to customer delivery (target: 24 hours delivery time for customers in Lagos, 3 days for customers in Oyo and Ogun, and 5 days for customers in other locations).
   
-* **Labor Productivity**: Evaluate picker and packer performance to identify training needs and staffing gaps.
-  
-* **Dead Stock**: Flag products with no movement in 90+ days to trigger markdown strategies or supplier returns.
+* **Dead Stock**: Flag products with no movement in 30+ days to trigger markdown strategies or supplier returns.
   
 * **Product Segmentation**: Classify products by revenue contribution to focus marketing and inventory investment on high-value items.
   
