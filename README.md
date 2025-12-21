@@ -33,7 +33,9 @@ Reporting to the CEO, this analysis was conducted to transform Modest Apparel in
 <!-- Title -->
 <h1 align="center">Executive Summary</h1>
 
-
+<p align="center">
+  <img src="resources/1.Revenue%20%26%20mom.png" alt="Revenue" width="2000" height="2000" />
+</p>
 
 
 
