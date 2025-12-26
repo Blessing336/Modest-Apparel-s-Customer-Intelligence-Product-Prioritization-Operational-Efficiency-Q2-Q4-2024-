@@ -38,7 +38,7 @@ Reporting to the CEO, this analysis was conducted to discover why revenue declin
 <h3 align="center">Revenue Crisis Deepens as December Hits ₦187.5M Despite Holiday Season</h3>
   
 <p align="center">
-  <img src="resources/Rev.png" alt="Revenue" width="2000" height="2000" />
+  <img src="resources/Revenue%20declining1.png" alt="Revenue" width="2000" height="2000" />
 </p>
 
 <br/>
@@ -73,7 +73,7 @@ Reporting to the CEO, this analysis was conducted to discover why revenue declin
 <h3 align="center">Orders Peaked at 805 in June Before Dropping 42% to 469 by Year End</h3>
   
 <p align="center">
-  <img src="resources/orders.png" alt="Orders" width="2000" height="2000" />
+  <img src="resources/Orders%20declining3.png" alt="Orders" width="2000" height="2000" />
 </p>
 
 * **Primary Cause: Order Volume Collapse**
@@ -238,7 +238,7 @@ Order volume represents the most direct indicator of market demand and customer 
 <h3 align="center">Unit Sales Collapsed Across All Categories from June Peak Through December</h3>
 
 <p align="center">
-  <img src="resources/6.%20Unit%20Sales%20Collapsed.png" alt="Orders" width="2000" height="2000" />
+  <img src="resources/Quantity%20Collapse%20across%20cat.6.png" alt="Orders" width="2000" height="2000" />
 </p>
 
 **The order volume decline manifested as reduced unit sales across every product category**, reinforcing that this is a market-wide demand crisis rather than category-specific challenges. Traditional category units collapsed from 13,469 in June to 7,917 by December (41.2% decline). Modern units fell from 2,001 to 1,124 (43.8% decline). Cosmetics dropped from 940 to 574 (38.9% decline). Accessories decreased from 647 to 402 (37.9% decline).
@@ -250,7 +250,7 @@ Order volume represents the most direct indicator of market demand and customer 
 <h3 align="center">Traditional Products Included in Over 9 Out of 10 Customer Orders</h3>
 
 <p align="center">
-  <img src="resources/5.%20Trad.%209%20out%20of%2010.png" alt="Orders" width="2000" height="2000" />
+  <img src="resources/Trad%20Cat.%20in%209%200f%2010%205.png" alt="Orders" width="2000" height="2000" />
 </p>
 
 Traditional products appeared in **4,824 orders out of 5,257 total orders (91.7% inclusion rate)**. Modern products appeared in 3,405 orders (64.7%), Cosmetics in 2,365 orders (44.9%), and Accessories in 1,878 orders (35.7%). These penetration rates demonstrate **Traditional's role as the core purchase driver while other categories serve as complementary add-ons**.
@@ -272,7 +272,7 @@ Traditional category generated 19.30 orders per customer on average, significant
 <h3 align="center">Despite Declined Orders, Average Order Value Increased During and After Economic Crisis Period</h3>
 
 <p align="center">
-  <img src="resources/AOV.png" alt="Orders" width="2000" height="2000" />
+  <img src="resources/AOV%20not%20declining2.png" alt="Orders" width="2000" height="2000" />
 </p>
 
 * **AOV PERFORMANCE**
@@ -298,7 +298,7 @@ First, **customers may have consolidated shopping trips** to reduce transaction 
 <h3 align="center">Cycle Time Performance Unstable with Four Months Averaging Above 100 Hours and November Peaking at 104.0h</h3>
 
 <p align="center">
-  <img src="resources/8.%20monthly%20avg%20cycle%20time.png" alt="Orders" width="2000" height="2000" />
+  <img src="resources/avg%20cycle%20time%20per%20month%20overall%208.png" alt="Orders" width="2000" height="2000" />
 </p>
 
 * **OVERALL CYCLE TIME PERFORMANCE**
@@ -313,7 +313,7 @@ The November peak in cycle time (104.0h) coinciding with the steepest order volu
 <h3 align="center">All Carriers Failed to Meet Delivery Time Targets to Other Locations Except Lagos, Minimally Succeeding</h3>
 
 <p align="center">
-  <img src="resources/9.%20Carriers%20failed.png" alt="Orders" width="2000" height="2000" />
+  <img src="resources/carrier%20cycle%20time%20performance9.png" alt="Orders" width="2000" height="2000" />
 </p>
 
 **Carrier-specific performance reveals systemic 3PL (third-party logistics) provider failures across most delivery zones**. Lagos, the primary market, achieved only minimal success rates: DiD Logistics met SLA on 24.1% of orders, Green Star Express on 18.6%, and KwiiQi Delivery on 18.0%. **For Ogun/Oyo and Other Locations, all three carriers achieved 0% SLA success rate**, a complete operational failure that undoubtedly damages customer satisfaction and retention.
@@ -338,7 +338,7 @@ Dead stock analysis identified one critical inventory management failure: **the 
 <h3 align="center">22% of Top Performing Products Contributed 80% to Revenue and 52% of the Bottom Performing Products Contributed Just 5.2% to Revenue</h3>
 
 <p align="center">
-  <img src="resources/10.%20Top%20contributed%2080%25.png" alt="Orders" width="2000" height="2000" />
+  <img src="resources/ABC%20distribution%20overall10.png" alt="Orders" width="2000" height="2000" />
 </p>
 
 
@@ -354,7 +354,7 @@ The 20 Class A products represent the business core and must be protected at all
 <h3 align="center">Traditional Category Products Dominated Repeat Purchases at 19.30 Orders While Other Categories Trailed Below 14</h3>
 
 <p align="center">
-  <img src="resources/11.%20Repeat%20Purchase%20by%20Category.png" alt="Orders" width="2000" height="2000" />
+  <img src="resources/Trad%20dominate%20repeat%20purchase%2011.png" alt="Orders" width="2000" height="2000" />
 </p>
 
 Traditional products generated 19.30 orders per customer, 41.7% higher than Modern (13.62 orders), 104.0% higher than Cosmetics (9.46 orders), and 156.0% higher than Accessories (7.54 orders). This gap suggests that Traditional product category drives, single transactions, ongoing customer relationships and repeat business.
@@ -384,11 +384,11 @@ Class C products represent 52.2% of SKU count but generated merely 5.2% of reven
 <h3 align="center">RFM Customer Segmentation Analysis (May-Dec 2024)</h3>
 
 <p align="center">
-  <img src="resources/RFM1.png" alt="Orders" width="2000" height="2000" />
+  <img src="resources/recency%20frq%20mon%201.png" alt="Orders" width="2000" height="2000" />
 </p>
 
 <p align="center">
-  <img src="resources/RFM2.png" alt="Orders" width="2000" height="2000" />
+  <img src="resources/recency%20frq%20mon%202.png" alt="Orders" width="2000" height="2000" />
 </p>
 
 The segmentation reveals that while the Loyal segment represents the largest customer base, Champions demonstrate the most valuable purchasing behaviors that should be replicated across other segments.
@@ -400,19 +400,19 @@ The segmentation reveals that while the Loyal segment represents the largest cus
 <h3 align="center">Purchase Frequency Deteriorated Across Every Customer Segment During 8-Month Period</h3>
 
 <p align="center">
-  <img src="resources/13.%20Purchase%20Frequency.png" alt="Orders" width="2000" height="2000" />
+  <img src="resources/avg%20freq%20decline%20RFM.png" alt="Orders" width="2000" height="2000" />
 </p>
 
 No customer segment was immune; Champions, Loyal, Potential, At Risk, and Lost all experienced declining purchase rates from May through December 2024.
 
 <br/>
 
-* **PURCHASE FREQUENCY TREND**
+* **MONETARY VALUE TREND**
 
 <h3 align="center">Champions Segment Alone Shows Higher Monetary Value At Year End Compared to Start While Other Segments Declined Sharply</h3>
 
 <p align="center">
-  <img src="resources/14.%20Segment%20Monetary%20Value.png" alt="Orders" width="2000" height="2000" />
+  <img src="resources/monetary%20RFM.png" alt="Orders" width="2000" height="2000" />
 </p>
 
 Monetary value trends reveal Champions as the only segment maintaining and growing spending throughout the economic crisis period. Champions increased from ₦31.1M in August to ₦158M in September, still showing net positive trajectory. In stark contrast, all other segments experienced sustained monetary value decline: Loyal fell from ₦147.8M (May) to ₦55.8M (Dec), Potential from ₦56.7M to ₦9.0M, At Risk from ₦29.6M to ₦2.6M, and Lost from ₦12.5M in May to ₦2.7M September.
